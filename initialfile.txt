@@ -1,3 +1,7 @@
 adding first name  to this file from client machine eraad-w10:wq!
 adding second line 
+<<<<<<< HEAD
 adding a line from centos to create conflict 
+=======
+adding a line from centosVM  to create conflict
+>>>>>>> refs/remotes/origin/main
